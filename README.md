@@ -1,6 +1,6 @@
 ## Numerical Methods
 
-In this repository, you can find two individual projects carried out during the third semester (winter 2024/2025) at WUT. The repository contains both code and reports (in Polish). The projects were implemented using MATLAB.
+In this repository, you can find two individual projects carried out during the third semester (winter 2024/2025) at WUT. The repository contains both code and reports (in Polish). The projects were implemented using **MATLAB**.
 
 ### Simpson's Method for Approximating the Value of an Integral
 
